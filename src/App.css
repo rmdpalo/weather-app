@@ -1,0 +1,16 @@
+.forecast-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.report-container{
+    display: flex;
+    align-items: center;
+    justify-content: around;
+}
+
+.forecast-card{
+    margin: 10px;
+}
